@@ -1,0 +1,112 @@
+﻿body
+{
+}
+#content {
+  width: 902px ;
+  margin-left: auto ;
+  margin-right: auto ;
+}
+#topnav {
+    margin-top:20px;
+}
+#logo {
+    float:left;
+}
+#navmenu {
+    float:right;
+    margin-top:17px;
+}
+#navmenu img {
+    margin-left:0px;
+}
+
+#navmenu2 {
+    float:right;
+    margin-left:10px;
+    margin-top:17px;
+}
+#navmenu2 img {
+    padding-left:0px;
+}
+.bar img {
+    padding-top:15px;
+}
+#title-text {
+    font-family:"Impact", sans-serif;
+    font-size:48px;   
+    margin-top:1em;
+}
+#subtitle-text {
+    font-family:"Arial Narrow", sans-serif;
+    font-size:13px;   
+    margin-top:0em;
+    color:gray;
+}
+#date-text {
+    float:left;
+}
+#print-text {
+    float:right;
+}
+#recipe-img {
+    margin-top:2.5em;    
+}
+#recipe-text {
+    font-family: "Times New Roman", serif;
+    font-size:20px;
+    text-indent: 30px;
+}
+#recipe-card {
+    margin-bottom:1.5em;
+    -webkit-box-shadow: 0px 2px 2px gray;
+    -moz-box-shadow: 0px 2px 2px gray;
+    box-shadow: 0px 2px 2px gray;
+}
+#footer {
+    font-family: "Times New Roman", serif;
+    display:inline-block;
+    float:left;
+    margin-top:1.5em;
+    width:902px;
+    height:85px;
+    
+}
+#blogger-image {
+    float:left;
+}
+.name-text {
+    font-size:22px;
+    font-weight:bold;
+    line-height:10%;
+}
+#footerText {
+    float:left;
+    padding-left:10px;   
+    font-size:18px;
+    width:570px;
+}
+h5 {
+  text-align: center;
+  color: silver;
+}
+.button {
+    display:block;
+    margin: 0 auto;    
+    float:right;
+    font-family:"Arial Narrow", sans-serif;
+    font-size:14px;
+    outline:none;
+    border:none;
+    text-decoration:none;
+    text-align:center;
+    -webkit-border-radius:2px;
+    -moz-border-radius:2px;
+    border-radius:2px;
+    line-height:55px;
+    height:55px;
+    width:185px;
+    background-color:#BC7058;
+    color:white;
+}
+
+
