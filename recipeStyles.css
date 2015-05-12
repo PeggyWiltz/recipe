@@ -108,5 +108,11 @@ h5 {
     background-color:#BC7058;
     color:white;
 }
+.hidden {
+  display:none;
+}
+.visible {
+  display:inline;
+}
 
 
